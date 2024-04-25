@@ -1,0 +1,5 @@
+package com.demo_automationtesting.pages;
+
+public class HomePage {
+
+}
